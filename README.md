@@ -1,5 +1,7 @@
 # Prototyping Methodology for Engineering Design
 
+Final Project of Prototyping Methodology for Engineering Design, Tokyo Tech course
+
 ### Immersive Skateboard
 
 The **Immersive Skateboard** prototype was developed to provide an immersive skateboarding experience without the need for a real skateboard or specific location. The goal was to make skateboarding more accessible by simulating it in a controlled environment, combining user physical movements with technology to deliver an engaging experience. This prototype allows users to control a small skateboard through their movements, using sensors and motors for realistic feedback and movement.
